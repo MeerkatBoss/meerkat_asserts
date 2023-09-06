@@ -1,0 +1,6 @@
+build/
+.clangd/
+.clang-format
+**/compile_commands.json
+*.log
+.log/
